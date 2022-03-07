@@ -6,8 +6,8 @@
 - shopping list app
  > <How to use?>   
    You can fill out your list by pressing the enter key on your keyboard or the plus icon on the screen.   
-   If you want to delete the list, please click the trash can icon at the end of the list.   
-   The trash can icon will turn big and <span style="color:red">red</span> when your mouse cursor goes up.
+   If you want to delete the list, please click the trashcan icon at the end of the list.   
+   The trashcan icon will turn big and red when your mouse cursor goes up.
  
 ***
 - snatching carrot game app        
